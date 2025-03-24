@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 saldo = 0
 saques_realizados = 0
@@ -141,6 +142,8 @@ while True:
     else:
         print("Opção inválida, tente novamente.")
         """
+=======
+>>>>>>> f9c370679870557cf1d05529175b1299015effcc
 saldo = 0
 saques_realizados = 0
 limite_saques = 3
